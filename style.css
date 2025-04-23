@@ -28,6 +28,7 @@ html,body{
 }
 
 #ptop{
+    overflow: scroll;
     padding: 0px 25%;
     align-items: center;
     display: flex;
