@@ -52,6 +52,7 @@ html,body{
 }
 
 #pbtm{
+    overflow: scroll;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
